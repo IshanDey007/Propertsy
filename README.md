@@ -2,10 +2,6 @@
 
 ---
 
-## Website Link:
-
-https://propertsy.netlify.app/
-
 ## Overview:
 <p>In the realm of property transactions, from the nuanced intricacies of buying and renting to the complex dynamics of selling and property listings, the Propertsy system takes the lead. This comprehensive platform serves as a seamless facilitator for all stages of property interactions, ensuring a smooth experience for users. Propertsy is built using MERN stack.
 </p>
