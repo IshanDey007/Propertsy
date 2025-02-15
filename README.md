@@ -15,7 +15,7 @@ MongoDB.
 ## Technologies used:
 - React.js, Bootstrap, Material UI (Frontend)
 - Express.js, Node.js (Backend)
-- Supertest, Postman (Testing backend)
+- Supertest,Postman (Testing backend)
 - PostgreSQL (Database)
 - Docker (Containerization)
 - Netlify (Hosting frontend)
